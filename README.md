@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning PMP, and MBA
 - 💞️ I’m looking to collaborate on a Data science project or any AI work
 - 📫 How to reach me by mailing me abdelkhalekmarzouk@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Abdelkhalek2016/Abdelkhalek2016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
