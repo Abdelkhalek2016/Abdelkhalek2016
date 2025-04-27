@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Machine Learning and Data Analyst
 - 🌱 I’m currently learning PMP, and MBA
 - 💞️ I’m looking to collaborate on a Data science project or any AI work
-- 📫 How to reach me by mailing me abdelkhalekmarzouk@gmail.com
+- 📫 How to reach me by mailing me at abdelkhalekmarzouk@gmail.com or mobile: 201061804011
 
 
 <!---
